@@ -20,9 +20,7 @@
 
 ### 팀 소개
 
-팀의 소개를 작성합니다.
-
-우왕좌왕![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
+우왕좌왕 5인의 개발 생존기
 # Welcome to ○팀
 
 ## 1️⃣ 팀원 소개
