@@ -81,6 +81,7 @@
   - 여가: 가상현실/증강현실을 이용한 현실감 있는 영화와 게임, 홀로그램을 이용한 모임
   - 기타: 인공지능 비서
     <img src="https://github.com/user-attachments/assets/dc39f090-8942-4d88-85e2-1778fa7d837d" />
+  - 원본파일 링크 : https://drive.google.com/file/d/1zXvq1zezPxNFhy4QAJvTSRMSjSbjfJQ-/view?usp=drive_link
 
   - 우리가 그리는 미래 그리고 나
 
