@@ -122,6 +122,8 @@
 
   - ## 지도교수와의 만남
   <img src="https://github.com/user-attachments/assets/f1b51b56-fd99-4b90-be4e-70d93ac4ce26" width="600" height="900"/>
+
+  
   - 이현기 교수님
   - 소프트웨어, 그리고 주로 인공지능 연구
   - 주요 질문
