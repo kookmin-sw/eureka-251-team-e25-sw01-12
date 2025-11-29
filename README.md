@@ -121,7 +121,7 @@
        A: 학부연구생은 보통 3학년 1학기 정도에 컨택은 4학년 1학기 정도에 해보는 것을 추천하고 빠르면 빠를수록 좋다. 미리 교수님에게 자신이 관심 있는 분야에 대해 어필하고 비전을 이야기해보면 좋을 것이다.
 
   - ## 지도교수와의 만남
-  <img src="https://github.com/user-attachments/assets/f1b51b56-fd99-4b90-be4e-70d93ac4ce26" width="900" height="600"/>
+  <img src="https://github.com/user-attachments/assets/f1b51b56-fd99-4b90-be4e-70d93ac4ce26" width="600" height="900"/>
   - 이현기 교수님
   - 소프트웨어, 그리고 주로 인공지능 연구
   - 주요 질문
